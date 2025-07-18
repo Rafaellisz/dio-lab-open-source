@@ -26,6 +26,7 @@ Visualização de Dados e BI para Negócios
 
 🌐 Redes e Contato
 LinkedIn 💼 https://www.linkedin.com/in/rafaelli-sz/
+
 Perfil na DIO 🚀 https://www.dio.me/users/rafaellioiczenasz
 
 
