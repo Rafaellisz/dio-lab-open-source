@@ -11,16 +11,22 @@ Cada projeto é uma oportunidade de unir lógica, criatividade e impacto positiv
 ✨ Venha comigo transformar dados em decisões inteligentes!
 
 💻 Principais Habilidades e Interesses
+
 Python 🐍
+
 Power BI 📊
-SQL – MySQL 🐬, PostgreSQL 🐘
+
+SQL – MySQL 🐬, PostgreSQL 
+
 Excel Avançado 📈
+
 Web Scraping & Automatização
+
 Visualização de Dados e BI para Negócios
 
 🌐 Redes e Contato
-LinkedIn 💼
-Perfil na DIO 🚀
+LinkedIn 💼 https://www.linkedin.com/in/rafaelli-sz/
+Perfil na DIO 🚀 https://www.dio.me/users/rafaellioiczenasz
 
 
 🚀 Habilidades
